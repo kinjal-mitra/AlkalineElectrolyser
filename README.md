@@ -28,7 +28,11 @@ torchaudio --index-url https://download.pytorch.org/whl/cu124 (change cuda versi
 scikit-learn
 optuna
 
-The run in terminal: pip install -r requirements.txt
+The run in terminal:
+``` 
+pip install -r requirements.txt 
+
+```
 
 
 *(Note: A `requirements.txt` file is included in the repository. It's highly recommended to create a virtual environment before installing the requirements.)*
